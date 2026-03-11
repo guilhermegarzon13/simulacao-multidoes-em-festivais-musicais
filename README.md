@@ -16,4 +16,4 @@ Você pode visualizar a execução do código e os resultados gerados clicando a
 **[`Simulacao-Multidoes.ipynb`](./IC-Github/simulacao-multidoes.ipynb)**
 
 ## Fundamentação Teórica
-Para entender a teoria por trás da implementação, incluindo a modelagem do custo de locomoção, o campo de densidade e a dedução final do modelo Continuum Crowds, consulte o **[Relatório de Iniciação Científica](./relatorio-iniciacao.pdf)**.
+Para entender a teoria por trás da implementação, incluindo a modelagem do custo de locomoção, o campo de densidade e a dedução final do modelo Continuum Crowds, consulte o **[Relatório de Iniciação Científica](./IC-Github/relatorio-iniciacao.pdf)**.
